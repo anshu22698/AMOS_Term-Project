@@ -1,8 +1,3 @@
-%%
-%Sir polarplot3d function used here is not created by us. It is addons from
-%the MATLAB. The polarplot3d function file I am sharing with you is file
-%from that addons. The addon name is "3D Polar Plot".
-%polarplot3d function is not created by us.
 
 
 %Term Project Group Number-1
